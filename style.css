@@ -12,6 +12,10 @@
 #startBtn, #status{
     font-size: 20px;
 }
+
+#restartBtn{
+    font-size: 22px;
+}
 .footer{  
 line-height: 2;
 width: 100%;

@@ -20,6 +20,6 @@
 line-height: 2;
 width: 100%;
 margin: 0px;
-position: sticky;
+position: absolute;
 background-color: orangered;
 }
